@@ -4,7 +4,7 @@ Sou estudante de Licenciatura em Matemática na UNESPAR e também atuo como prof
 
 Gosto de aprender e compartilhar o que sei. Aqui no GitHub, você vai encontrar projetos que desenvolvi para ensinar de forma mais prática e acessível — desde atividades com Arduino até ferramentas interativas em Python e Streamlit.
 
-Ainda estou aprendendo muita coisa, mas sempre tento fazer com cuidado e pensando em como isso pode ajudar alguém. ✨
+Ainda estou aprendendo muita coisa, mas sempre tento fazer com cuidado e pensando em como isso pode ajudar alguém.
 
 ---
 
