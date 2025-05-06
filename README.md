@@ -23,10 +23,10 @@ Ainda estou aprendendo muita coisa, mas sempre tento fazer com cuidado e pensand
 
 ---
 
-
 <p align="center">
   <img src="https://github.com/Mogui-One/Mogui-One/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
