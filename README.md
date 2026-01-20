@@ -1,6 +1,6 @@
 ## Olá! Me chamo Lucas Matias 👋
 
-Sou estudante de Licenciatura em Matemática na UNESPAR e também atuo como professor no Ensino Fundamental e Médio. Trabalho com Matemática, Robótica Educacional e Programação.
+Licendiado em Matemática e atuo como professor no Ensino Fundamental e Médio. Trabalho com Matemática, Robótica Educacional e Programação.
 
 Gosto de aprender e compartilhar o que sei. Aqui no GitHub, você vai encontrar projetos que desenvolvi para ensinar de forma mais prática e acessível — desde atividades com Arduino até ferramentas interativas em Python e Streamlit.
 
